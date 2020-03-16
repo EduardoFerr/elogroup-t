@@ -16,10 +16,10 @@ Navegador moderno para executar a aplicação.
 
 ### Instalação e Execução
 1. _Dispensa instalação de ambiente para execução_.
-2. _Faça o download ou clone o repositório_: 
+2. Faça o download ou clone o repositório: 
  ```https://github.com/EduardoFerr/elogroup-t```.
-3. _Na pasta raiz, abra o arquivo_ **index.html** _no seu navegador para executar a aplicação_.
-4. _Pronto!_
+3. Na pasta raiz, abra o arquivo **index.html** no seu navegador para executar a aplicação.
+4. Pronto!
 
 ### Recursos utilizados no desenvolvimento:
 * HTML5 - linguagem de marcação
